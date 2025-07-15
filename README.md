@@ -6,6 +6,3 @@ Education: <br>
         BSc in Software Engineering (2025 - 2028) <br><br>
 Experience:   
         Job as Unreal Engine developer at Mixeal (Oct 2024 - present) <br><br>
-Portfolio: <br>
-        https://sibghatbaloch.netlify.app
-
