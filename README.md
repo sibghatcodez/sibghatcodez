@@ -5,4 +5,7 @@
 Education: <br>
         BSc in Software Engineering (2025 - 2028) <br><br>
 Experience:   
-        Job as Unreal Engine developer at Mixeal (Oct 2024 - present) <br><br>
+        Job as Unity developer at Kheddo Entertainment (Aug 2025 - present) <br><br>
+        Job as Unreal Engine developer at Mixeal (May 2025 - July 2025) <br><br>
+        Job as Unity developer at Mixeal (Oct 2024 - May 2025) <br><br>
+
